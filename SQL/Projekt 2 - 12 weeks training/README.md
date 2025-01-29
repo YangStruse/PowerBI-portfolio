@@ -1,0 +1,1 @@
+This is a project collecting personal data of my training. I did track every kind of data related to my training for a while. This dataset is more of a practice in data collecting and creating a personal database. 
