@@ -1,0 +1,46 @@
+ExerciseTypeID,ExerciseName
+1,Incline Smith Benchpress
+2,Machine Chest-Press
+3,Incline Cable Chest-Press
+4,Cable Chest-Press
+5,Pec Deck
+6,Dips-Machine
+7,Pushdown Triceps
+8,Overhead Cable Triceps
+9,Pushdown Cable Triceps
+10,Skull-Chruser
+11,Military Press
+12,Machine Miliraty Press
+13,Lateral Raises Dumbell
+14,Lateral Raises Machine
+15,Reverse Pec Deck
+16,Rear-delts Rows
+17,Besu Crunches
+18,Besu Legraises
+19,Cable Crunches
+20,Dead Bug
+21,Hollow Hold
+22,Pulldown Machine
+23,Machine Chestsupported Upperback
+24,Cable Upperback row
+25,Cable Lats Row
+26,Rope Pullovers
+27,Machine Chestsupported Midrow
+28,Hammercurls
+29,Biceps Curls
+30,Machine Preacher Curls
+31,Cable Curls
+32,Machine Adductor
+33,Standing Calves Raises
+34,Lying Leg Curls
+35,Sitting Leg Curls
+36,Leg Extentions
+37,Booty Builder
+38,Smith Split Squats
+39,Hacklift
+40,RDL
+41,Rest Day
+42,Sick
+43,Injured
+44,One-Armed Pull-Down
+45,Cable Lateral Raises
